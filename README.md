@@ -7,7 +7,7 @@ Works with QBCore.
     - Every Base Game Convenience Store
     - Casino Bartender (Gabz Map)
     - Mega Mall Hardware Store
-    - YouTool
+    - YouTool Hardware Store
 
 ## Dependencys
     - qb-target
