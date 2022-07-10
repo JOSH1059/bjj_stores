@@ -30,7 +30,7 @@ Config.ConstructionStorePeds = {
 
 Config.BarPeds = {
 	{ x = 979.2,  y = 25.77,  z = 70.46, heading = 9.31 },
-	{ x = 981.47,  y = -131.59,  z = 78.89, heading = 305.27 },
+	{ x = 980.47, y = 25.54, z = 71.46, heading = 328.88 },
 	{ x = -166.58,  y = 907.88,  z = 233.46, heading = 139.14 },
 	{ x = 1984.48,  y = 3054.71,  z = 47.22, heading = 237.22 },
 	{ x = -561.8,  y = 286.39,  z = 82.18, heading =  274.64}
